@@ -1,528 +1,528 @@
 [		
   { 		
-	"AF":	Asia
+	"AF:"	Asia
 		
-	"AL":	Europe
+	"AL:"	Europe
 		
-	"AQ":	Antarctica
+	"AQ:"	Antarctica
 		
-	"DZ":	Africa
+	"DZ:"	Africa
 		
-	"AS":	Oceania
+	"AS:"	Oceania
 		
-	"AD":	Europe
+	"AD:"	Europe
 		
-	"AO":	Africa
+	"AO:"	Africa
 		
-	"AG":	North America
+	"AG:"	North America
 		
-	"AZ":	Europe
+	"AZ:"	Europe
 		
-	"AZ":	Asia
+	"AZ:"	Asia
 		
-	"AR":	South America
+	"AR:"	South America
 		
-	"AU":	Oceania
+	"AU:"	Oceania
 		
-	"AT":	Europe
+	"AT:"	Europe
 		
-	"BS":	North America
+	"BS:"	North America
 		
-	"BH":	Asia
+	"BH:"	Asia
 		
-	"BD":	Asia
+	"BD:"	Asia
 		
-	"AM":	Europe
+	"AM:"	Europe
 		
-	"AM":	Asia
+	"AM:"	Asia
 		
-	"BB":	North America
+	"BB:"	North America
 		
-	"BE":	Europe
+	"BE:"	Europe
 		
-	"BM":	North America
+	"BM:"	North America
 		
-	"BT":	Asia
+	"BT:"	Asia
 		
-	"BO":	South America
+	"BO:"	South America
 		
-	"BA":	Europe
+	"BA:"	Europe
 		
-	"BW":	Africa
+	"BW:"	Africa
 		
-	"BV":	Antarctica
+	"BV:"	Antarctica
 		
-	"BR":	South America
+	"BR:"	South America
 		
-	"BZ":	North America
+	"BZ:"	North America
 		
-	"IO":	Asia
+	"IO:"	Asia
 		
-	"SB":	Oceania
+	"SB:"	Oceania
 		
-	"VG":	North America
+	"VG:"	North America
 		
-	"BN":	Asia
+	"BN:"	Asia
 		
-	"BG":	Europe
+	"BG:"	Europe
 		
-	"MM":	Asia
+	"MM:"	Asia
 		
-	"BI":	Africa
+	"BI:"	Africa
 		
-	"BY":	Europe
+	"BY:"	Europe
 		
-	"KH":	Asia
+	"KH:"	Asia
 		
-	"CM":	Africa
+	"CM:"	Africa
 		
-	"CA":	North America
+	"CA:"	North America
 		
-	"CV":	Africa
+	"CV:"	Africa
 		
-	"KY":	North America
+	"KY:"	North America
 		
-	"CF":	Africa
+	"CF:"	Africa
 		
-	"LK":	Asia
+	"LK:"	Asia
 		
-	"TD":	Africa
+	"TD:"	Africa
 		
-	"CL":	South America
+	"CL:"	South America
 		
-	"CN":	Asia
+	"CN:"	Asia
 		
-	"TW":	Asia
+	"TW:"	Asia
 		
-	"CX":	Asia
+	"CX:"	Asia
 		
-	"CC":	Asia
+	"CC:"	Asia
 		
-	"CO":	South America
+	"CO:"	South America
 		
-	"KM":	Africa
+	"KM:"	Africa
 		
-	"YT":	Africa
+	"YT:"	Africa
 		
-	"CG":	Africa
+	"CG:"	Africa
 		
-	"CD":	Africa
+	"CD:"	Africa
 		
-	"CK":	Oceania
+	"CK:"	Oceania
 		
-	"CR":	North America
+	"CR:"	North America
 		
-	"HR":	Europe
+	"HR:"	Europe
 		
-	"CU":	North America
+	"CU:"	North America
 		
-	"CY":	Europe
+	"CY:"	Europe
 		
-	"CY":	Asia
+	"CY:"	Asia
 		
-	"CZ":	Europe
+	"CZ:"	Europe
 		
-	"BJ":	Africa
+	"BJ:"	Africa
 		
-	"DK":	Europe
+	"DK:"	Europe
 		
-	"DM":	North America
+	"DM:"	North America
 		
-	"DO":	North America
+	"DO:"	North America
 		
-	"EC":	South America
+	"EC:"	South America
 		
-	"SV":	North America
+	"SV:"	North America
 		
-	"GQ":	Africa
+	"GQ:"	Africa
 		
-	"ET":	Africa
+	"ET:"	Africa
 		
-	"ER":	Africa
+	"ER:"	Africa
 		
-	"EE":	Europe
+	"EE:"	Europe
 		
-	"FO":	Europe
+	"FO:"	Europe
 		
-	"FK":	South America
+	"FK:"	South America
 		
-	"GS":	Antarctica
+	"GS:"	Antarctica
 		
-	"FJ":	Oceania
+	"FJ:"	Oceania
 		
-	"FI":	Europe
+	"FI:"	Europe
 		
-	"AX":	Europe
+	"AX:"	Europe
 		
-	"FR":	Europe
+	"FR:"	Europe
 		
-	"GF":	South America
+	"GF:"	South America
 		
-	"PF":	Oceania
+	"PF:"	Oceania
 		
-	"TF":	Antarctica
+	"TF:"	Antarctica
 		
-	"DJ":	Africa
+	"DJ:"	Africa
 		
-	"GA":	Africa
+	"GA:"	Africa
 		
-	"GE":	Europe
+	"GE:"	Europe
 		
-	"GE":	Asia
+	"GE:"	Asia
 		
-	"GM":	Africa
+	"GM:"	Africa
 		
-	"PS":	Asia
+	"PS:"	Asia
 		
-	"DE":	Europe
+	"DE:"	Europe
 		
-	"GH":	Africa
+	"GH:"	Africa
 		
-	"GI":	Europe
+	"GI:"	Europe
 		
-	"KI":	Oceania
+	"KI:"	Oceania
 		
-	"GR":	Europe
+	"GR:"	Europe
 		
-	"GL":	North America
+	"GL:"	North America
 		
-	"GD":	North America
+	"GD:"	North America
 		
-	"GP":	North America
+	"GP:"	North America
 		
-	"GU":	Oceania
+	"GU:"	Oceania
 		
-	"GT":	North America
+	"GT:"	North America
 		
-	"GN":	Africa
+	"GN:"	Africa
 		
-	"GY":	South America
+	"GY:"	South America
 		
-	"HT":	North America
+	"HT:"	North America
 		
-	"HM":	Antarctica
+	"HM:"	Antarctica
 		
-	"VA":	Europe
+	"VA:"	Europe
 		
-	"HN":	North America
+	"HN:"	North America
 		
-	"HK":	Asia
+	"HK:"	Asia
 		
-	"HU":	Europe
+	"HU:"	Europe
 		
-	"IS":	Europe
+	"IS:"	Europe
 		
-	"IN":	Asia
+	"IN:"	Asia
 		
-	"ID":	Asia
+	"ID:"	Asia
 		
-	"IR":	Asia
+	"IR:"	Asia
 		
-	"IQ":	Asia
+	"IQ:"	Asia
 		
-	"IE":	Europe
+	"IE:"	Europe
 		
-	"IL":	Asia
+	"IL:"	Asia
 		
-	"IT":	Europe
+	"IT:"	Europe
 		
-	"CI":	Africa
+	"CI:"	Africa
 		
-	"JM":	North America
+	"JM:"	North America
 		
-	"JP":	Asia
+	"JP:"	Asia
 		
-	"KZ":	Europe
+	"KZ:"	Europe
 		
-	"KZ":	Asia
+	"KZ:"	Asia
 		
-	"JO":	Asia
+	"JO:"	Asia
 		
-	"KE":	Africa
+	"KE:"	Africa
 		
-	"KP":	Asia
+	"KP:"	Asia
 		
-	"KR":	Asia
+	"KR:"	Asia
 		
-	"KW":	Asia
+	"KW:"	Asia
 		
-	"KG":	Asia
+	"KG:"	Asia
 		
-	"LA":	Asia
+	"LA:"	Asia
 		
-	"LB":	Asia
+	"LB:"	Asia
 		
-	"LS":	Africa
+	"LS:"	Africa
 		
-	"LV":	Europe
+	"LV:"	Europe
 		
-	"LR":	Africa
+	"LR:"	Africa
 		
-	"LY":	Africa
+	"LY:"	Africa
 		
-	"LI":	Europe
+	"LI:"	Europe
 		
-	"LT":	Europe
+	"LT:"	Europe
 		
-	"LU":	Europe
+	"LU:"	Europe
 		
-	"MO":	Asia
+	"MO:"	Asia
 		
-	"MG":	Africa
+	"MG:"	Africa
 		
-	"MW":	Africa
+	"MW:"	Africa
 		
-	"MY":	Asia
+	"MY:"	Asia
 		
-	"MV":	Asia
+	"MV:"	Asia
 		
-	"ML":	Africa
+	"ML:"	Africa
 		
-	"MT":	Europe
+	"MT:"	Europe
 		
-	"MQ":	North America
+	"MQ:"	North America
 		
-	"MR":	Africa
+	"MR:"	Africa
 		
-	"MU":	Africa
+	"MU:"	Africa
 		
-	"MX":	North America
+	"MX:"	North America
 		
-	"MC":	Europe
+	"MC:"	Europe
 		
-	"MN":	Asia
+	"MN:"	Asia
 		
-	"MD":	Europe
+	"MD:"	Europe
 		
-	"ME":	Europe
+	"ME:"	Europe
 		
-	"MS":	North America
+	"MS:"	North America
 		
-	"MA":	Africa
+	"MA:"	Africa
 		
-	"MZ":	Africa
+	"MZ:"	Africa
 		
-	"OM":	Asia
+	"OM:"	Asia
 		
-	"NA":	Africa
+	"NA:"	Africa
 		
-	"NR":	Oceania
+	"NR:"	Oceania
 		
-	"NP":	Asia
+	"NP:"	Asia
 		
-	"NL":	Europe
+	"NL:"	Europe
 		
-	"AN":	North America
+	"AN:"	North America
 		
-	"CW":	North America
+	"CW:"	North America
 		
-	"AW":	North America
+	"AW:"	North America
 		
-	"SX":	North America
+	"SX:"	North America
 		
-	"BQ":	North America
+	"BQ:"	North America
 		
-	"NC":	Oceania
+	"NC:"	Oceania
 		
-	"VU":	Oceania
+	"VU:"	Oceania
 		
-	"NZ":	Oceania
+	"NZ:"	Oceania
 		
-	"NI":	North America
+	"NI:"	North America
 		
-	"NE":	Africa
+	"NE:"	Africa
 		
-	"NG":	Africa
+	"NG:"	Africa
 		
-	"NU":	Oceania
+	"NU:"	Oceania
 		
-	"NF":	Oceania
+	"NF:"	Oceania
 		
-	"NO":	Europe
+	"NO:"	Europe
 		
-	"MP":	Oceania
+	"MP:"	Oceania
 		
-	"UM":	Oceania
+	"UM:"	Oceania
 		
-	"UM":	North America
+	"UM:"	North America
 		
-	"FM":	Oceania
+	"FM:"	Oceania
 		
-	"MH":	Oceania
+	"MH:"	Oceania
 		
-	"PW":	Oceania
+	"PW:"	Oceania
 		
-	"PK":	Asia
+	"PK:"	Asia
 		
-	"PA":	North America
+	"PA:"	North America
 		
-	"PG":	Oceania
+	"PG:"	Oceania
 		
-	"PY":	South America
+	"PY:"	South America
 		
-	"PE":	South America
+	"PE:"	South America
 		
-	"PH":	Asia
+	"PH:"	Asia
 		
-	"PN":	Oceania
+	"PN:"	Oceania
 		
-	"PL":	Europe
+	"PL:"	Europe
 		
-	"PT":	Europe
+	"PT:"	Europe
 		
-	"GW":	Africa
+	"GW:"	Africa
 		
-	"TL":	Asia
+	"TL:"	Asia
 		
-	"PR":	North America
+	"PR:"	North America
 		
-	"QA":	Asia
+	"QA:"	Asia
 		
-	"RE":	Africa
+	"RE:"	Africa
 		
-	"RO":	Europe
+	"RO:"	Europe
 		
-	"RU":	Europe
+	"RU:"	Europe
 		
-	"RU":	Asia
+	"RU:"	Asia
 		
-	"RW":	Africa
+	"RW:"	Africa
 		
-	"BL":	North America
+	"BL:"	North America
 		
-	"SH":	Africa
+	"SH:"	Africa
 		
-	"KN":	North America
+	"KN:"	North America
 		
-	"AI":	North America
+	"AI:"	North America
 		
-	"LC":	North America
+	"LC:"	North America
 		
-	"MF":	North America
+	"MF:"	North America
 		
-	"PM":	North America
+	"PM:"	North America
 		
-	"VC":	North America
+	"VC:"	North America
 		
-	"SM":	Europe
+	"SM:"	Europe
 		
-	"ST":	Africa
+	"ST:"	Africa
 		
-	"SA":	Asia
+	"SA:"	Asia
 		
-	"SN":	Africa
+	"SN:"	Africa
 		
-	"RS":	Europe
+	"RS:"	Europe
 		
-	"SC":	Africa
+	"SC:"	Africa
 		
-	"SL":	Africa
+	"SL:"	Africa
 		
-	"SG":	Asia
+	"SG:"	Asia
 		
-	"SK":	Europe
+	"SK:"	Europe
 		
-	"VN":	Asia
+	"VN:"	Asia
 		
-	"SI":	Europe
+	"SI:"	Europe
 		
-	"SO":	Africa
+	"SO:"	Africa
 		
-	"ZA":	Africa
+	"ZA:"	Africa
 		
-	"ZW":	Africa
+	"ZW:"	Africa
 		
-	"ES":	Europe
+	"ES:"	Europe
 		
-	"SS":	Africa
+	"SS:"	Africa
 		
-	"EH":	Africa
+	"EH:"	Africa
 		
-	"SD":	Africa
+	"SD:"	Africa
 		
-	"SR":	South America
+	"SR:"	South America
 		
-	"SJ":	Europe
+	"SJ:"	Europe
 		
-	"SZ":	Africa
+	"SZ:"	Africa
 		
-	"SE":	Europe
+	"SE:"	Europe
 		
-	"CH":	Europe
+	"CH:"	Europe
 		
-	"SY":	Asia
+	"SY:"	Asia
 		
-	"TJ":	Asia
+	"TJ:"	Asia
 		
-	"TH":	Asia
+	"TH:"	Asia
 		
-	"TG":	Africa
+	"TG:"	Africa
 		
-	"TK":	Oceania
+	"TK:"	Oceania
 		
-	"TO":	Oceania
+	"TO:"	Oceania
 		
-	"TT":	North America
+	"TT:"	North America
 		
-	"AE":	Asia
+	"AE:"	Asia
 		
-	"TN":	Africa
+	"TN:"	Africa
 		
-	"TR":	Europe
+	"TR:"	Europe
 		
-	"TR":	Asia
+	"TR:"	Asia
 		
-	"TM":	Asia
+	"TM:"	Asia
 		
-	"TC":	North America
+	"TC:"	North America
 		
-	"TV":	Oceania
+	"TV:"	Oceania
 		
-	"UG":	Africa
+	"UG:"	Africa
 		
-	"UA":	Europe
+	"UA:"	Europe
 		
-	"MK":	Europe
+	"MK:"	Europe
 		
-	"EG":	Africa
+	"EG:"	Africa
 		
-	"GB":	Europe
+	"GB:"	Europe
 		
-	"GG":	Europe
+	"GG:"	Europe
 		
-	"JE":	Europe
+	"JE:"	Europe
 		
-	"IM":	Europe
+	"IM:"	Europe
 		
-	"TZ":	Africa
+	"TZ:"	Africa
 		
-	"US":	North America
+	"US:"	North America
 		
-	"VI":	North America
+	"VI:"	North America
 		
-	"BF":	Africa
+	"BF:"	Africa
 		
-	"UY":	South America
+	"UY:"	South America
 		
-	"UZ":	Asia
+	"UZ:"	Asia
 		
-	"VE":	South America
+	"VE:"	South America
 		
-	"WF":	Oceania
+	"WF:"	Oceania
 		
-	"WS":	Oceania
+	"WS:"	Oceania
 		
-	"YE":	Asia
+	"YE:"	Asia
 		
-	"ZM":	Africa
+	"ZM:"	Africa
 		
-	"XX":	Oceania
+	"XX:"	Oceania
 		
-	"XE":	Asia
+	"XE:"	Asia
 		
-	"XD":	Asia
+	"XD:"	Asia
 		
-	"XS":	Asia
+	"XS:"	Asia
 		
   }		
 ] 		
